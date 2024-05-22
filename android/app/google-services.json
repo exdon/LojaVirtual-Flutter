@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "303431061322",
+    "project_id": "lojavirtualflutter-9a8b1",
+    "storage_bucket": "lojavirtualflutter-9a8b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303431061322:android:48a863174bca47b585bbb3",
+        "android_client_info": {
+          "package_name": "br.com.exdon.loja_virtual"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUEl_HkKx0ZLFJpCPtBmnr0chD_a_GyDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
